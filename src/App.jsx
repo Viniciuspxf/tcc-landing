@@ -8,7 +8,7 @@ function App() {
           <li><a href="plano_de_trabalho.pdf" target="_blank">Proposta</a></li>
           <li><a href="https://docs.google.com/presentation/d/1NtRxMMlg492wJPy94xc5aKSqLqpRQGp-N0fUD4acY8M/edit?usp=sharing" target="_blank">Apresentação</a></li>
           <li><a href="" target="_blank">Monografia</a></li>
-          <li><a href="poster.pdf" target="_blank">Pôster</a></li>
+          <li><a href="https://docs.google.com/presentation/d/10hnNX6dgUKo1be4YXLODNFsWIhM8mgbZum2mrEFjdcY/edit?usp=sharing" target="_blank">Pôster</a></li>
           <li><a href="https://github.com/the-sortinghat/pattern-detector/" target="_blank">Repositório</a></li>
         </ul>
       </nav>
