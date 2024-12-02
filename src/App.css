@@ -37,6 +37,17 @@ nav a {
   color: white;
 }
 
+@media (max-width: 490px) {
+  nav ul {
+    flex-direction: column;
+  }
+  
+  nav ul li {
+    margin-top: 1rem;
+  }
+  
+}
+
 
 nav a:hover {
   color: #817e7a;
